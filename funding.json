@@ -6,10 +6,10 @@
         "name": "グレェ「grey」",
         "email": "artkiver@gmail.com",
         "phone": "",
-        "description": "オレはグレェでございます。I go by grey. I have been facilitating libre/free open source technologies since the 1970s. Incarnated as a human in Menlo Park, where my parents' church to this day still shares a parking lot with SRI [Stanford Research Institute] and I knew Doug Engelbart [behind NLS {oNLine System} and Bill English personally before they passed away, among other luminaries. As a teen, some of my cohorts and I were repeatedly invited to work on and improve systems at the Naval Postgraduate School in Monterey (now: nps.edu but then: nps.navy.mil). I encountered networked computers before TCP 'flag day' and was a (Co)SysOp on Citadel [open source older than the FSF] BBSes in the 408 area code such as WWWA, VisionSoft, SoL [Satellite of Love], Cathode Cathedral, TOWN 303 and more before helping with fledging web presences in the early 1990s. In more recent decades I have been a contributing editor to the OpenBSD Journal [https://undeadly.org] as well as a maintainer of various MacPorts [https://ports.macports.org/search/?selected_facets=maintainers_exact:artkiver] mostly down-streaming code from OpenBSD related projects to macOS/OS X. I was also previously a sysadmin at iXSystems [behind FreeNAS/TrueNAS and one of the larger funders of the FreeBSD project], a co-founder of the SF based hacker space https://noisebridge.net, staff at RECon.cx in 2006 and I have also presented at https://toorcon.org among sundry related activities",
+        "description": "オレはグレェでございます。I go by grey.\n More about me and some of the things I have contributed to can be found out about here: https://reviktra.neocities.org/fundingflossbio2025",
         "webpageUrl": {
             "url": "http://www.artkiver.com",
-            "wellKnown": "https://github.com/artkiver/floss.fund.2025/funding.json"
+            "wellKnown": "https://github.com/artkiver/floss.fund2025/funding.json"
         }
     },
     "projects": [{
