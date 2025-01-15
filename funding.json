@@ -1,0 +1,88 @@
+{
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "maintainer",
+        "name": "グレェ「grey」",
+        "email": "artkiver@gmail.com",
+        "phone": "",
+        "description": "オレはグレェでございます。I go by grey. I have been facilitating libre/free open source technologies since the 1970s. Incarnated as a human in Menlo Park, where my parents' church to this day still shares a parking lot with SRI [Stanford Research Institute] and I knew Doug Engelbart [behind NLS {oNLine System} and Bill English personally before they passed away, among other luminaries. As a teen, some of my cohorts and I were repeatedly invited to work on and improve systems at the Naval Postgraduate School in Monterey (now: nps.edu but then: nps.navy.mil). I encountered networked computers before TCP 'flag day' and was a (Co)SysOp on Citadel [open source older than the FSF] BBSes in the 408 area code such as WWWA, VisionSoft, SoL [Satellite of Love], Cathode Cathedral, TOWN 303 and more before helping with fledging web presences in the early 1990s. In more recent decades I have been a contributing editor to the OpenBSD Journal [https://undeadly.org] as well as a maintainer of various MacPorts [https://ports.macports.org/search/?selected_facets=maintainers_exact:artkiver] mostly down-streaming code from OpenBSD related projects to macOS/OS X. I was also previously a sysadmin at iXSystems [behind FreeNAS/TrueNAS and one of the larger funders of the FreeBSD project], a co-founder of the SF based hacker space https://noisebridge.net, staff at RECon.cx in 2006 and I have also presented at https://toorcon.org among sundry related activities",
+        "webpageUrl": {
+            "url": "http://www.artkiver.com",
+            "wellKnown": "https://github.com/artkiver/floss.fund.2025/funding.json"
+        }
+    },
+    "projects": [{
+        "guid": "MacPorts",
+        "name": "MacPorts",
+        "description": "Originally created as DarwinPorts, co-founded by luminaries such as jkh (Jordan Hubbard, one of the co-founders of the FreeBSD project), MacPorts is in essence to macOS/OS X what /usr/ports is to a BSD UNIX like operating system. Currently nearly 40,000 software packages are maintained by hundreds of contributors. Personally I tend to focus primarily on down streaming code from upstream OpenBSD related projects such as: OpenSSH, LibreSSL, signify, OpenSMTPD, etc..",
+        "webpageUrl": {
+            "url": "https://www.macports.org"
+        },
+        "repositoryUrl": {
+            "url": "https://github.com/macports",
+            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+        },
+        "licenses": ["various, MIT, ISC, BSD, GPL, etc."],
+        "tags": ["UNIX", "ports", "macOS", "packaging"]
+    },
+ ],
+    "funding": {
+        "channels": [
+            {
+                "guid": "mybank",
+                "type": "bank",
+                "address": "",
+                "description": "Will accept ACH to my Credit Union. Please e-mail me for details."
+            },
+            {
+                "guid": "mypay",
+                "type": "payment-provider",
+                "address": "https://en.liberapay.com/byterhymer",
+                "description": "Pay with your debit/credit card through this libre/free open source payment gateway and setup recurring subscriptions."
+            },
+            {
+                "guid": "PayPal",
+                "type": "payment-provider",
+                "address": "https://www.paypal.com/paypalme/rhymebyter",
+                "description": "Pay with your debit/credit card through this closed source proprietary PayPal payment gateway."
+            }
+        ],
+        "plans": [
+            {
+                "guid": "hosting-monthly",
+                "status": "active",
+                "name": "Hosting support",
+                "description": "This will cover the monthly server hosting costs for the projects.",
+                "amount": 333.33,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["mypay"]
+            },
+            {
+                "guid": "developer-time",
+                "status": "active",
+                "name": "Developer compensation",
+                "description": "This will cover the cost of one developer working part-time on the projects.",
+                "amount": 6666.66,
+                "currency": "USD",
+                "frequency": "monthly",
+                "channels": ["mybank"]
+            },
+            {
+                "guid": "angel-plan",
+                "status": "active",
+                "name": "Goodwill plan",
+                "description": "Pay anything you wish to show your goodwill for the project.",
+                "amount": 0,
+                "currency": "USD",
+                "frequency": "one-time",
+                "channels": ["mybank", "mypay"]
+            }
+        ],
+        "history": [
+            {"year": 2025, "income": 0, "expenses": 55555, "taxes": 3333, "currency": "USD", "description": "Let's see if anyone donates this way?"},
+        ]
+    }
+}
+
