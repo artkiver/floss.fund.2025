@@ -21,7 +21,7 @@
         },
         "repositoryUrl": {
             "url": "https://github.com/macports",
-            "wellKnown": "https://github.com/example/zombo-app/blob/main/.well-known/funding-manifest-urls"
+            "wellKnown": "https://github.com/macports/macports-ports/"
         },
         "licenses": ["various, MIT, ISC, BSD, GPL, etc."],
         "tags": ["UNIX", "ports", "macOS", "packaging"]
