@@ -81,8 +81,7 @@
             }
         ],
         "history": [
-            {"year": 2025, "income": 0, "expenses": 55555, "taxes": 3333, "currency": "USD", "description": "Let's see if anyone donates this way?"},
+            {"year": 2025, "income": 0, "expenses": 55555, "taxes": 3333, "currency": "USD", "description": "Let's see if anyone donates this way?"}
         ]
     }
 }
-
