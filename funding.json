@@ -25,8 +25,7 @@
         },
         "licenses": ["various, MIT, ISC, BSD, GPL, etc."],
         "tags": ["UNIX", "ports", "macOS", "packaging"]
-    }
- ]
+    }],
     "funding": {
         "channels": [
             {
@@ -40,12 +39,6 @@
                 "type": "payment-provider",
                 "address": "https://en.liberapay.com/byterhymer",
                 "description": "Pay with your debit/credit card through this libre/free open source payment gateway and setup recurring subscriptions."
-            },
-            {
-                "guid": "PayPal",
-                "type": "payment-provider",
-                "address": "https://www.paypal.com/paypalme/rhymebyter",
-                "description": "Pay with your debit/credit card through this closed source proprietary PayPal payment gateway."
             }
         ],
         "plans": [
@@ -54,7 +47,7 @@
                 "status": "active",
                 "name": "Hosting support",
                 "description": "This will cover the monthly server hosting costs for the projects.",
-                "amount": 333.33,
+                "amount": 333,
                 "currency": "USD",
                 "frequency": "monthly",
                 "channels": ["mypay"]
@@ -64,7 +57,7 @@
                 "status": "active",
                 "name": "Developer compensation",
                 "description": "This will cover the cost of one developer working part-time on the projects.",
-                "amount": 6666.66,
+                "amount": 4444,
                 "currency": "USD",
                 "frequency": "monthly",
                 "channels": ["mybank"]
@@ -81,8 +74,7 @@
             }
         ],
         "history": [
-            {"year": 2025, "income": 0, "expenses": 55555, "taxes": 3333, "currency": "USD", "description": "Let's see if anyone donates this way?"},
+            {"year": 2025, "income": 0, "expenses": 55555, "taxes": 3333, "currency": "USD", "description": "Let's see if anyone donates this way?"}
         ]
     }
 }
-
