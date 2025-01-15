@@ -21,7 +21,7 @@
         },
         "repositoryUrl": {
             "url": "https://github.com/macports",
-            "wellKnown": "https://github.com/macports/macports-ports/"
+            "wellKnown": "https://reviktra.neocities.org/.well_known/funding-manifest-urls"
         },
         "licenses": ["various, MIT, ISC, BSD, GPL, etc."],
         "tags": ["UNIX", "ports", "macOS", "packaging"]
